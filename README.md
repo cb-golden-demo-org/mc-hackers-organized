@@ -2,7 +2,7 @@
 # PLEASE NOTE:  workflow.yaml in root to copy
 # ###########################################################
 
-# mc-hackers-organized - test commit
+# mc-hackers-organized - test commit 2
 
 This app is a Vue.js-based clone of [Hacker News](https://hn.ycombinator.com).
 
